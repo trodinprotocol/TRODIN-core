@@ -27,4 +27,4 @@ Official smart contract for TRODIN — the gasless fiat-to-token payment rail.
 - Integration guide: [link to your docs later]
 
 ## 📬 Questions?
-Contact: [trodin.protocol@gmail.com / Telegram / X]
+Contact: [trodin.protocol@gmail.com / Telegram: https://t.me/trodinprotocol/ X: @trodinprotocol]
